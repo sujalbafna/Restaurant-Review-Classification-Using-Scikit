@@ -1,6 +1,3 @@
-Here’s the README file with some fun emojis added for a more engaging look:
-
-```markdown
 # Restaurant Review Classification Using Scikit 🍴📊
 
 This project uses machine learning techniques to classify restaurant reviews as either positive or negative. It employs Scikit-learn for model training, testing, and evaluation. 
